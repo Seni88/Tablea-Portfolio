@@ -11,7 +11,6 @@ The datasets used in these workbooks are for demostration purposes.
 ## Folder Content
 - Tableau Workbook
 - Datasets
-- Image of the final Dashboard
 
 ## Projects
 - [Company Sales Analysis (Part 1)](https://github.com/Seni88/Tablea-Portfolio/tree/main/Company%20Sales%20Analysis%20(Part%201)):
