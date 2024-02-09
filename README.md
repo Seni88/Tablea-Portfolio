@@ -34,7 +34,7 @@ The datasets used in these workbooks are for demostration purposes.
 ![Financial Consumer Complaints](https://user-images.githubusercontent.com/101188471/197381927-983891f6-52e0-4375-bf26-a3f2b81004fe.png)
 
 - [House Prices in Boston](https://github.com/Seni88/Tablea-Portfolio/tree/main/House%20Prices%20in%20Boston):
-    - The relationship between house prices and the crime rate in a particcular region is analysed and used to predict the prices of houses in the city of Boston.
+    - The relationship between house prices and the crime rate in a particular region is analysed and used to predict the prices of houses in the city of Boston.
 
 ![Relationship between House Prices and Crime Rates](https://user-images.githubusercontent.com/101188471/197381952-b58d97a3-32c7-480d-9f69-d6e1f6eeb665.png)
 
