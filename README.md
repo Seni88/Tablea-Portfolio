@@ -24,7 +24,7 @@ The datasets used in these workbooks are for demostration purposes.
 ![Customer Analysis](https://user-images.githubusercontent.com/101188471/197381875-faccfe7b-b1ee-4c69-a476-bf675365db37.png)
 
 - [Customer Analysis](https://github.com/Seni88/Tablea-Portfolio/tree/main/Customer%20Analysis):
-    - Customers of a company are seperated into their respective age groups and regions. Futher analysis is performed to reveal the amount of revenue and profit each age group produces and the total amount of revenue each region produces.
+    - Customers of a company are separated into their respective age groups and regions. Further analysis is performed to reveal the amount of revenue and profit each age group produces and the total amount of revenue each region produces.
 
 ![Custumer Analysis](https://user-images.githubusercontent.com/101188471/197381906-57920509-2b41-4180-88bf-20ebd2b0a9c3.png)
 
